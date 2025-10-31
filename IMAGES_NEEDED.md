@@ -7,17 +7,17 @@ This is your checklist for generating images in ComfyUI. Generate these in batch
 These images tell your opening story and are essential to get the game running:
 
 ### College/Normal Life (Early 90s aesthetic)
-- [ ] `intro_college.png` - 90s college campus building exterior
-- [ ] `intro_protagonist.png` - Young male protagonist, plain clothes, unassuming
-- [ ] `intro_walking.png` - Protagonist walking to campus, peaceful morning
+- [x ] `intro_college.png` - 90s college campus building exterior
+- [x ] `intro_protagonist.png` - Young male protagonist, plain clothes, unassuming
+- [x ] `intro_walking.png` - Protagonist walking to campus, peaceful morning
 
 ### The Incident
-- [ ] `intro_explosion.png` - Explosion effect, bright flash
-- [ ] `intro_students_running.png` - College students fleeing in panic
-- [ ] `intro_protagonist_curious.png` - Protagonist looking toward explosion curiously
-- [ ] `intro_hole.png` - Large crater/hole in street
-- [ ] `intro_hole_closeup.png` - Looking down into dark mysterious hole
-- [ ] `intro_hole_dark.png` - Darkness with hints of movement
+- [x ] `intro_explosion.png` - Explosion effect, bright flash
+- [x ] `intro_students_running.png` - College students fleeing in panic
+- [x ] `intro_protagonist_curious.png` - Protagonist looking toward explosion curiously
+- [x ] `intro_hole.png` - Large crater/hole in street
+- [x ] `intro_hole_closeup.png` - Looking down into dark mysterious hole
+- [x ] `intro_hole_dark.png` - Darkness with hints of movement
 
 ### First Contact
 - [ ] `intro_hand_grab.png` - Strong hand grabbing protagonist's wrist
