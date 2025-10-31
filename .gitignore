@@ -1,0 +1,36 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+
+# Godot-specific
+*.import
+export.cfg
+export_presets.cfg
+
+# Imported translations
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
+
+# System/tool-specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Build outputs
+builds/
+*.zip
+*.dmg
+*.apk
+*.exe
+*.x86_64
+*.pck
+
+# ComfyUI temp files (if you work in same directory)
+ComfyUI_temp/
+output_temp/

@@ -1,0 +1,236 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Early 1990s. A normal college morning.",
+		"image": "res://assets/images/intro_college.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You're just another student. Friendly enough, but never really involved. Content to drift through life unnoticed.",
+		"image": "res://assets/images/intro_protagonist.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The walk to campus is quiet. Peaceful, even. Until...",
+		"image": "res://assets/images/intro_walking.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "BOOM!",
+		"image": "res://assets/images/intro_explosion.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Student",
+		"text": "What the hell was that?!",
+		"image": "res://assets/images/intro_students_running.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Students ahead of you gasp and start running in the opposite direction. The smart thing would be to run with them.",
+		"image": "res://assets/images/intro_students_running.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "But curiosity gets the better of you. What could have caused that explosion?",
+		"image": "res://assets/images/intro_protagonist_curious.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You move toward the sound, and find... a hole. A massive crater in the middle of the street.",
+		"image": "res://assets/images/intro_hole.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "A sinkhole? But sinkholes don't explode...",
+		"image": "res://assets/images/intro_hole_closeup.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You lean closer to look inside. That's when you see movement in the darkness.",
+		"image": "res://assets/images/intro_hole_dark.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "A hand shoots out and grabs your wrist!",
+		"image": "res://assets/images/intro_hand_grab.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "WHAT THE--",
+		"image": "res://assets/images/intro_falling.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You're pulled through. The world inverts. Colors you've never seen. Sounds that don't belong.",
+		"image": "res://assets/images/intro_otherworld.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "And then you're standing in... somewhere else. Definitely not Earth.",
+		"image": "res://assets/images/intro_otherworld_landscape.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Why are you just standing there?! MOVE!",
+		"image": "res://assets/images/intro_kara.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The voice belongs to the hand that grabbed you. A towering woman with greenish skin, muscles like steel cables, and eyes full of panic.",
+		"image": "res://assets/images/intro_kara_full.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "W-what? Where am I? Who are you?!",
+		"image": "res://assets/images/intro_protagonist_confused.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Questions later! Run NOW!",
+		"image": "res://assets/images/intro_kara_urgent.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "That's when you feel it. A presence. Wrong. Hungry. Ancient.",
+		"image": "res://assets/images/intro_darkness_approaching.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "A massive shadow falls over both of you. You can't see it clearly - your mind refuses to process what it's seeing.",
+		"image": "res://assets/images/intro_thing_shadow.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "No! Not again! There's too many of them!",
+		"image": "res://assets/images/intro_kara_desperate.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Panic overwhelms you. Every instinct screaming. Your hand shoots forward, palm out, like you're trying to push it away.",
+		"image": "res://assets/images/intro_protagonist_hand.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The world goes WHITE.",
+		"image": "res://assets/images/intro_white_flash.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "...",
+		"image": "res://assets/images/intro_white.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You wake up on asphalt. Earth. The familiar smell of car exhaust and morning dew.",
+		"image": "res://assets/images/intro_wakeup.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "You... you're awake. What did you DO?",
+		"image": "res://assets/images/intro_kara_shocked.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The orc woman is standing over you, staring in disbelief. Behind her, the hole is covered by a shimmering white barrier.",
+		"image": "res://assets/images/intro_barrier.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Inside the barrier, shapes writhe and slam against it. The THINGS. Trapped.",
+		"image": "res://assets/images/intro_things_trapped.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "In three hundred years... no one has ever stopped them. And you just... you just sealed them away.",
+		"image": "res://assets/images/intro_kara_amazed.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "I... what? I don't understand any of this!",
+		"image": "res://assets/images/intro_protagonist_confused2.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Neither do I. But you just changed everything.",
+		"image": "res://assets/images/intro_kara_serious.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "━━━━━━━━━━━━━━━━━━━━━━━━━━\n         THREE YEARS LATER\n━━━━━━━━━━━━━━━━━━━━━━━━━━",
+		"image": "res://assets/images/intro_timeskip.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The barrier held. No one expected it to, but it did. And in those three years, everything changed.",
+		"image": "res://assets/images/intro_barrier_present.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "More humans discovered they had abilities. The THINGS could be fought. Defeated. For the first time in history, there was hope.",
+		"image": "res://assets/images/intro_awakened_humans.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Other species came through from different worlds. Not all were hostile. Many sought refuge from the THINGS that had devoured their homes.",
+		"image": "res://assets/images/intro_refugees.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The barrier only stopped the hostile entities. Explorers began venturing into the other worlds, bringing back strange artifacts, magical items, wonders beyond imagination.",
+		"image": "res://assets/images/intro_explorers.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "A new economy emerged. Dungeon runners. People who made their living diving into other worlds and returning with treasures.",
+		"image": "res://assets/images/intro_economy.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "And that's where you find yourself now. At the Crossroads Inn, base of operations for dungeon runners.",
+		"image": "res://assets/images/hub_inn_exterior.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Ready to make your fortune in the worlds beyond.",
+		"image": "res://assets/images/hub_inn_interior.png"
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "After the run, Kara approaches you at the inn's bar.",
+		"image": "res://assets/images/kara_friendship_1_scene.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Not bad out there. You're getting better at this.",
+		"image": "res://assets/images/kara_friendship_1_portrait.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "Thanks. I'm still trying to figure out how all this works, honestly.",
+		"image": "res://assets/images/protagonist_talking.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Hah! At least you're honest about it. Most humans I've met act like they know everything.",
+		"image": "res://assets/images/kara_friendship_1_laughing.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "You remember that day? When you made the barrier? I thought I was going to die. I'd been running from those things for months.",
+		"image": "res://assets/images/kara_friendship_1_serious.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "I still don't understand what I did. It just... happened.",
+		"image": "res://assets/images/protagonist_confused.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Instinct. That's how magic works for most people. You'll learn to control it. Eventually.",
+		"image": "res://assets/images/kara_friendship_1_teaching.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Anyway... thanks for having my back today. It's been a while since I could trust someone in a fight.",
+		"image": "res://assets/images/kara_friendship_1_grateful.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "[Friendship with Kara increased! Strength permanently +5]",
+		"image": "res://assets/images/friendship_up.png"
+	}
+]

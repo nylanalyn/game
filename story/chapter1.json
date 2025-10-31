@@ -1,0 +1,49 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Welcome to your visual novel! This is an example of how the story system works.",
+		"image": "res://assets/images/placeholder.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Character",
+		"text": "Hello! I'm a character in your story. Press ENTER to advance the dialogue.",
+		"image": "res://assets/images/placeholder.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Character",
+		"text": "Press F or the SELECT button to toggle fullscreen view of the current image!",
+		"image": "res://assets/images/placeholder.png"
+	},
+	{
+		"type": "stat_change",
+		"stats": {
+			"hp": 10,
+			"mp": 5
+		}
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Your stats have been updated! Check the left panel.",
+		"image": "res://assets/images/placeholder.png"
+	},
+	{
+		"type": "choice",
+		"speaker": "Narrator",
+		"text": "What would you like to do?",
+		"choices": [
+			"Continue the story",
+			"Try something else",
+			"Go back"
+		]
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "You made a choice! The story continues...",
+		"image": "res://assets/images/placeholder.png"
+	}
+]

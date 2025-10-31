@@ -1,0 +1,56 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Sarah finds you in the inn's small chapel, a quiet space away from the chaos.",
+		"image": "res://assets/images/sarah_friendship_1_scene.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Sarah",
+		"text": "There you are. I was hoping to find you.",
+		"image": "res://assets/images/sarah_friendship_1_portrait.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "Sarah. Is everything okay?",
+		"image": "res://assets/images/protagonist_concerned.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Sarah",
+		"text": "Yes, I just... I wanted to thank you. For today. You took hits that were meant for me.",
+		"image": "res://assets/images/sarah_friendship_1_grateful.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "That's what teammates do, right?",
+		"image": "res://assets/images/protagonist_modest.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Sarah",
+		"text": "Not always. I've run with people who would throw you to the THINGS if it meant saving themselves.",
+		"image": "res://assets/images/sarah_friendship_1_serious.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Sarah",
+		"text": "You're different. You actually care about the people around you. That's... rare these days.",
+		"image": "res://assets/images/sarah_friendship_1_soft.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Sarah",
+		"text": "Here. Let me teach you some recovery techniques. If you're going to keep taking hits for people, you should at least know how to survive them.",
+		"image": "res://assets/images/sarah_friendship_1_teaching.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "[Friendship with Sarah increased! Max Health permanently +10]",
+		"image": "res://assets/images/friendship_up.png"
+	}
+]

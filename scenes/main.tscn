@@ -1,0 +1,119 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwq7vmxh8rcr5"]
+
+[ext_resource type="Script" path="res://scripts/main_ui.gd" id="1_main_ui"]
+
+[node name="MainUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_main_ui")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.1, 0.1, 0.15, 1)
+
+[node name="StatsPanel" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 9
+anchor_bottom = 1.0
+offset_right = 300.0
+grow_vertical = 2
+
+[node name="StatsText" type="RichTextLabel" parent="StatsPanel"]
+layout_mode = 2
+bbcode_enabled = true
+text = "[b]Player[/b]
+
+Level: 1
+HP: 100
+MP: 50
+
+STR: 10
+MAG: 10
+DEF: 10"
+fit_content = true
+
+[node name="PictureFrame" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -400.0
+offset_top = -300.0
+offset_right = 400.0
+offset_bottom = 200.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PictureDisplay" type="TextureRect" parent="PictureFrame"]
+layout_mode = 2
+expand_mode = 1
+stretch_mode = 5
+
+[node name="DialogueBox" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -200.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="DialogueBox"]
+layout_mode = 2
+
+[node name="SpeakerLabel" type="Label" parent="DialogueBox"]
+layout_mode = 2
+offset_left = 4.0
+offset_top = 4.0
+offset_right = 1916.0
+offset_bottom = 30.0
+theme_override_font_sizes/font_size = 24
+text = "Speaker"
+
+[node name="DialogueText" type="RichTextLabel" parent="DialogueBox"]
+layout_mode = 2
+offset_left = 4.0
+offset_top = 34.0
+offset_right = 1916.0
+offset_bottom = 196.0
+theme_override_font_sizes/normal_font_size = 20
+bbcode_enabled = true
+text = "Dialogue text goes here. Press ENTER to continue."
+fit_content = true
+
+[node name="FullscreenPicture" type="TextureRect" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+stretch_mode = 5
+
+[node name="ChoiceContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_top = 250.0
+offset_right = 200.0
+offset_bottom = 350.0
+grow_horizontal = 2
+grow_vertical = 2

@@ -1,0 +1,48 @@
+[
+	{
+		"_comment": "This is a dialogue entry - displays text and optionally an image",
+		"type": "dialogue",
+		"speaker": "Character Name",
+		"text": "What the character says. Press ENTER to continue.",
+		"image": "res://assets/images/your_image.png"
+	},
+	{
+		"_comment": "This is a choice entry - presents options to the player",
+		"type": "choice",
+		"speaker": "Narrator",
+		"text": "A question or situation that requires a choice?",
+		"choices": [
+			"Choice 1 - Currently all choices advance story the same way",
+			"Choice 2 - You can expand game_manager.gd to handle different paths",
+			"Choice 3 - Consider adding 'goto' field to jump to different positions"
+		]
+	},
+	{
+		"_comment": "This changes player stats (positive or negative values)",
+		"type": "stat_change",
+		"stats": {
+			"hp": 10,
+			"mp": -5,
+			"strength": 1
+		}
+	},
+	{
+		"_comment": "After stat change, you usually want dialogue to explain it",
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Your stats have changed! Check the panel on the left.",
+		"image": "res://assets/images/another_image.png"
+	},
+	{
+		"_comment": "You can chain as many entries as you want",
+		"type": "dialogue",
+		"speaker": "Hero",
+		"text": "The story can be as long as you want. Just keep adding entries!",
+		"image": "res://assets/images/hero.png"
+	},
+	{
+		"_comment": "Scene change entry for future minigames or different areas",
+		"type": "scene_change",
+		"scene": "minigame_combat"
+	}
+]

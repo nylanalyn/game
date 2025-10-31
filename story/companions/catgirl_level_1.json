@@ -1,0 +1,56 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Miko finds you on the inn's rooftop, where you go to clear your head.",
+		"image": "res://assets/images/miko_friendship_1_scene.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Miko",
+		"text": "Nyaa~ Found you! You always come up here after a run, don't you?",
+		"image": "res://assets/images/miko_friendship_1_portrait.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "Miko! I didn't hear you coming.",
+		"image": "res://assets/images/protagonist_surprised.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Miko",
+		"text": "Of course you didn't! I'm very sneaky~",
+		"image": "res://assets/images/miko_friendship_1_proud.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Miko",
+		"text": "You were pretty good today! Your reflexes are getting faster. I've been watching!",
+		"image": "res://assets/images/miko_friendship_1_observing.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "You've been watching me?",
+		"image": "res://assets/images/protagonist_curious.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Miko",
+		"text": "Mmhmm! You move differently than other humans. More... fluid. Like you're dancing instead of fighting.",
+		"image": "res://assets/images/miko_friendship_1_compliment.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Miko",
+		"text": "I like it! Maybe I can teach you some of my tricks? Speed is everything in a fight, you know~",
+		"image": "res://assets/images/miko_friendship_1_teaching.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "[Friendship with Miko increased! Dexterity permanently +5]",
+		"image": "res://assets/images/friendship_up.png"
+	}
+]

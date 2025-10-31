@@ -1,0 +1,74 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "It's late. Most of the inn has gone to sleep. You find Kara outside, looking up at the stars.",
+		"image": "res://assets/images/kara_friendship_5_night.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Hey. Can't sleep either?",
+		"image": "res://assets/images/kara_friendship_5_relaxed.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "Too much on my mind. You?",
+		"image": "res://assets/images/protagonist_night.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Same. I keep thinking about how different things are now. Three years ago, I was alone, running for my life every day.",
+		"image": "res://assets/images/kara_friendship_5_thoughtful.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "Now I'm here. With you. Fighting back instead of running. It's... strange. But good.",
+		"image": "res://assets/images/kara_friendship_5_content.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Protagonist",
+		"text": "I'm glad you're here.",
+		"image": "res://assets/images/protagonist_sincere.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "...Yeah? Because sometimes I wonder if you realize how much you mean to people. To me.",
+		"image": "res://assets/images/kara_friendship_5_vulnerable.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "She moves closer. You can feel the warmth radiating from her.",
+		"image": "res://assets/images/kara_friendship_5_close.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "You saved my life that day. And every day since, you make me want to be stronger. Better.",
+		"image": "res://assets/images/kara_friendship_5_intense.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Kara",
+		"text": "That's not something I take lightly.",
+		"image": "res://assets/images/kara_friendship_5_serious_romantic.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The moment hangs between you. Charged. Meaningful.",
+		"image": "res://assets/images/kara_friendship_5_moment.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "[Friendship with Kara increased! Strength permanently +5]",
+		"image": "res://assets/images/friendship_up.png"
+	}
+]

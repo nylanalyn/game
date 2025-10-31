@@ -1,0 +1,32 @@
+[
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "The Crossroads Inn. Your home base between dungeon runs.",
+		"image": "res://assets/images/hub_inn_interior.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Three companions are available today. Each brings their own strengths to a run.",
+		"image": "res://assets/images/hub_companions.png"
+	},
+	{
+		"type": "dialogue",
+		"speaker": "Narrator",
+		"text": "Or you could go solo, relying purely on your magical abilities. But be warned - the magic path offers no second chances.",
+		"image": "res://assets/images/hub_solo_path.png"
+	},
+	{
+		"type": "choice",
+		"speaker": "Narrator",
+		"text": "Who will you take on your next run?",
+		"choices": [
+			"Kara (Orc Warrior - Boosts Strength)",
+			"Miko (Catgirl Rogue - Boosts Dexterity)",
+			"Sarah (Human Cleric - Boosts Health)",
+			"Go Solo (Magic Path - High Risk)"
+		],
+		"choice_handler": "select_companion"
+	}
+]
