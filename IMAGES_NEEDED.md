@@ -20,16 +20,16 @@ These images tell your opening story and are essential to get the game running:
 - [x ] `intro_hole_dark.png` - Darkness with hints of movement
 
 ### First Contact
-- [ ] `intro_hand_grab.png` - Strong hand grabbing protagonist's wrist
-- [ ] `intro_falling.png` - Falling through portal, reality distorting
-- [ ] `intro_otherworld.png` - Alien landscape, wrong colors, surreal
-- [ ] `intro_otherworld_landscape.png` - Strange world vista
+- [x ] `intro_hand_grab.png` - Strong hand grabbing protagonist's wrist
+- [x ] `intro_falling.png` - Falling through portal, reality distorting
+- [x ] `intro_otherworld.png` - Alien landscape, wrong colors, surreal
+- [x ] `intro_otherworld_landscape.png` - Strange world vista
 
 ### Kara Introduction
-- [ ] `intro_kara.png` - Kara face closeup, orc woman, panic in eyes
-- [ ] `intro_kara_full.png` - Full body Kara, muscular orc warrior woman, greenish skin
-- [ ] `intro_protagonist_confused.png` - Protagonist confused/scared
-- [ ] `intro_kara_urgent.png` - Kara yelling urgently
+- [x ] `intro_kara.png` - Kara face closeup, orc woman, panic in eyes
+- [x ] `intro_kara_full.png` - Full body Kara, muscular orc warrior woman, greenish skin
+- [x ] `intro_protagonist_confused.png` - Protagonist confused/scared
+- [x ] `intro_kara_urgent.png` - Kara yelling urgently
 
 ### The THINGS
 - [ ] `intro_darkness_approaching.png` - Ominous presence approaching
